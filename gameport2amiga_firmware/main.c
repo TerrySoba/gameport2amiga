@@ -3,8 +3,8 @@
 #include <avr/pgmspace.h>
 #include <avr/wdt.h>
 
-#define LOWER 40
-#define UPPER 80
+#define LOWER 77
+#define UPPER 107
 #define UNPLUGGED 2
 
 #define UP    7
